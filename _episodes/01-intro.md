@@ -19,17 +19,6 @@ keypoints:
 
 ## Variables
 
-Any Python interpreter can be used as a calculator:
-~~~
-3 + 5 * 4
-~~~
-{: .language-python}
-~~~
-23
-~~~
-{: .output}
-
-This is great but not very interesting.
 To do anything useful with data, we need to assign its value to a _variable_.
 In Python, we can [assign]({{ page.root }}/reference.html#assign) a value to a
 [variable]({{ page.root }}/reference.html#variable), using the equals sign `=`.
